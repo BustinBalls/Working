@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="InitiateZedStreamOnNano.m" Name="InitiateZedStreamOnNano">
+    <Extension Value="f64d4803-4466-43f0-a890-3a87bbf9d9d4" Name="StartUpPrev" />
+</Info>
